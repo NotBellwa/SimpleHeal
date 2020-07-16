@@ -1,0 +1,11 @@
+name: Wild
+main:  NotBellwa\SimpleHeal\main
+version: 0.1.0
+api: 3.14.1
+description: "A Basic Heal Command"
+author: "NotBellwa"
+commands:
+  heal:
+    permission: "heal.command"
+    description: "heal yourself!"
+    default: op
